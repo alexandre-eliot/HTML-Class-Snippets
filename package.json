@@ -12,10 +12,10 @@
     "galleryFlags": [
         "Public"
     ],
-    "homepage": "https://codecollab.prodlb.travp.net/mpoirier/HTML-Class-Snippets/blob/master/README.md",
+    "homepage": "https://github.com/mikejpoirier/HTML-Class-Snippets/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "https://codecollab.prodlb.travp.net/mpoirier/HTML-Class-Snippets.git"
+        "url": "git+https://github.com/mikejpoirier/HTML-Class-Snippets.git"
     },
     "engines": { "vscode": "0.10.x" },
     "categories": ["Snippets"],
