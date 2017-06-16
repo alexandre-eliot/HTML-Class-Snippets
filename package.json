@@ -2,9 +2,9 @@
     "name": "HTML-Classes",
     "displayName": "HTML Class Attribute Snippets",
     "description": "Easily add class attributes while creating HTML tags.",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "publisher": "mikepoirier",
-    "icon": "images/classIcon.svg",
+    "icon": "images/MP_Logo.png",
     "galleryBanner": {
         "color": "#112233",
         "theme": "dark"

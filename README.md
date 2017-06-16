@@ -56,6 +56,9 @@ In order to use the snippets, begin typing one of the snippets listed below then
 
 ### Updates
 
+#### v1.0.6
+- Updated logo (courtesy of Ashley McDonald)
+
 #### v1.0.5
 - Added demo gif to documentation
 
@@ -72,6 +75,3 @@ In order to use the snippets, begin typing one of the snippets listed below then
 
 #### v1.0.1
 - Original version
-
-
-<div>Icon made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
