@@ -1,5 +1,5 @@
 ## HTML Class Attribute Snippets
-This extension enables you to create HTML tags with class attributes quickly and easily.
+This extension enables you to create HTML and JSX tags with class attributes quickly and easily.
 
 ### How-To
 In order to use the snippets, begin typing one of the snippets listed below then press tab or enter.
@@ -53,8 +53,57 @@ In order to use the snippets, begin typing one of the snippets listed below then
 | u.class | Create underlined text with class attribute(s) |
 | ul.class | Create an unordered list with class attribute(s) |
 
+### JSX Snippets
+| Snippet | Purpose |
+| :--- | :--- |
+| a.className | Create an anchor with className attribute(s) |
+| b.className | Create bold text with className attribute(s) |
+| body.className | Create a body with className attribute(s) |
+| button.className | Create a button with className attribute(s) |
+| div.className | Create a section with className attribute(s) |
+| dl.className | Create a description list with className attribute(s) |
+| dt.className | Create a term in a description list with className attribute(s) |
+| em.className | Create emphasized text with className attribute(s) |
+| footer.className | Create a footer with className attribute(s) |
+| form.className | Create an input form with className attribute(s) |
+| h1.className | Create a heading (h1) with className attribute(s) |
+| h2.className | Create a heading (h2) with className attribute(s) |
+| h3.className | Create a heading (h3) with className attribute(s) |
+| h4.className | Create a heading (h4) with className attribute(s) |
+| h5.className | Create a heading (h5) with className attribute(s) |
+| h6.className | Create a heading (h6) with className attribute(s) |
+| header.className | Create a header with className attribute(s) |
+| html.className | Create an html with className attribute(s) |
+| idiv.className | Create an inline section with className attribute(s) |
+| input.className | Create an input with className attribute(s) |
+| label.className | Create a label for an input with className attribute(s) |
+| li.className | Create a list item with className attribute(s) |
+| nav.className | Create a nav with className attribute(s) |
+| ol.className | Create an ordered list with className attribute(s) |
+| p.className | Create a paragraph with className attribute(s) |
+| q.className | Create a quotation with className attribute(s) |
+| select.className | Create a drop-down list with className attribute(s) |
+| small.className | Create smaller text with className attribute(s) |
+| span.className | Create a span with className attribute(s) |
+| strong.className | Create strong text with className attribute(s) |
+| sub.className | Create subscripted text with className attribute(s) |
+| sup.className | Create superscripted text with className attribute(s) |
+| table.className | Create a table with className attribute(s) |
+| tbody.className | Create a table body with className attribute(s) |
+| td.className | Create a table cell with className attribute(s) |
+| textarea.className | Create a multiple line input with className attribute(s) |
+| tfoot.className | Create a table footer with className attribute(s) |
+| th.className | Create a table header cell with className attribute(s) |
+| thead.className | Create a table header with className attribute(s) |
+| title.className | Create a title with className attribute(s) |
+| tr.className | Create a table row with className attribute(s) |
+| u.className | Create underlined text with className attribute(s) |
+| ul.className | Create an unordered list with className attribute(s) |
 
 ### Updates
+
+#### v1.1.0
+- Add JSX files support
 
 #### v1.0.6
 - Updated logo (courtesy of Ashley McDonald)

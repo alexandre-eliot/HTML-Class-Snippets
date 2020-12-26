@@ -1,10 +1,11 @@
 {
-    "name": "HTML-Classes",
-    "displayName": "HTML Class Attribute Snippets",
-    "description": "Easily add class attributes while creating HTML tags.",
-    "version": "1.0.6",
-    "publisher": "mikepoirier",
-    "icon": "images/MP_Logo.png",
+    "name": "html-jsx-classes",
+    "displayName": "HTML/JSX Class Attribute Snippets",
+    "description": "Easily add class attributes while creating HTML/JSX tags.",
+    "version": "1.1.0",
+    "author": "mikepoirier & alexandre.eliot",
+    "publisher": "alexandre.eliot",
+    "icon": "https://github.com/alexandre-eliot/JSX-HTML-Class-Snippets/blob/master/assets/img/logo.png",
     "galleryBanner": {
         "color": "#112233",
         "theme": "dark"
@@ -12,10 +13,10 @@
     "galleryFlags": [
         "Public"
     ],
-    "homepage": "https://github.com/mikejpoirier/HTML-Class-Snippets/blob/master/README.md",
+    "homepage": "https://github.com/alexandre-eliot/JSX-HTML-Class-Snippets/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/mikejpoirier/HTML-Class-Snippets.git"
+        "url": "git+https://github.com/alexandre-eliot/JSX-HTML-Class-Snippets.git"
     },
     "engines": { "vscode": "0.10.x" },
     "categories": ["Snippets"],
@@ -24,6 +25,14 @@
             {
                 "language": "html",
                 "path": "./snippets/html.json"
+            },
+            {
+                "language": "jsx",
+                "path": "./snippets/jsx.json"
+            },
+            {
+                "language": "js",
+                "path": "./snippets/jsx.json"
             }
         ]
     }
