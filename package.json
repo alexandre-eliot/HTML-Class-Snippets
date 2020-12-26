@@ -5,7 +5,7 @@
     "version": "1.1.0",
     "author": "mikepoirier & alexandre-eliot",
     "publisher": "alexandre-eliot",
-    "icon": "https://github.com/alexandre-eliot/JSX-HTML-Class-Snippets/blob/master/images/logo.png",
+    "icon": "./images/logo.png",
     "galleryBanner": {
         "color": "#112233",
         "theme": "dark"
