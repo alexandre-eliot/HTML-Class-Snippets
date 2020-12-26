@@ -3,9 +3,9 @@
     "displayName": "HTML/JSX Class Attribute Snippets",
     "description": "Easily add class attributes while creating HTML/JSX tags.",
     "version": "1.1.0",
-    "author": "mikepoirier & alexandre.eliot",
-    "publisher": "alexandre.eliot",
-    "icon": "https://github.com/alexandre-eliot/JSX-HTML-Class-Snippets/blob/master/assets/img/logo.png",
+    "author": "mikepoirier & alexandre-eliot",
+    "publisher": "alexandre-eliot",
+    "icon": "https://github.com/alexandre-eliot/JSX-HTML-Class-Snippets/blob/master/images/logo.png",
     "galleryBanner": {
         "color": "#112233",
         "theme": "dark"
@@ -31,7 +31,7 @@
                 "path": "./snippets/jsx.json"
             },
             {
-                "language": "js",
+                "language": "javascript",
                 "path": "./snippets/jsx.json"
             }
         ]
