@@ -102,7 +102,7 @@ In order to use the snippets, begin typing one of the snippets listed below then
 
 ### Updates
 
-#### v1.1.0
+#### v1.1.1
 - Add JSX files support
 
 #### v1.0.6

@@ -2,7 +2,7 @@
     "name": "html-jsx-classes",
     "displayName": "HTML/JSX Class Attribute Snippets",
     "description": "Easily add class attributes while creating HTML/JSX tags.",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "author": "mikepoirier & alexandre-eliot",
     "publisher": "alexandre-eliot",
     "icon": "images/logo.png",
