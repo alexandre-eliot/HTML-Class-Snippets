@@ -1,10 +1,4 @@
 {
-/*
-	// HTML Class Snippets
-	// Create HTML tags with class attributes quickly!
-	// 
-	// Author: Mike Poirier
-*/
 	"a with class": {
 		"prefix": "a.class",
 		"body": [
